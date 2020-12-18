@@ -89,6 +89,22 @@
 
 - [Programa de cursos integrados Matemática para aprendizagem automática](https://pt.coursera.org/specializations/mathematics-machine-learning)
 
+- [Um Guia de Migração de Desenvolvedor para Cientista de Dados ](https://www.udemy.com/course/guia-de-migracao-de-desenvolvedor-para-cientista-de-dados/)
+
+- [Data Science para Iniciantes: Fácil e Simples! ](https://www.udemy.com/course/data-science-para-iniciantes-facil-e-simples/)
+
+- [Data Science: Visualização de Dados com Python](https://www.udemy.com/course/visualizacao-de-dados-com-python/)
+
+- [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/)
+
+- [Essentials of Data Science](https://www.udemy.com/course/essentials-of-data-science-in-90-minutes/)
+
+- [Introduction to Data Science using Python (Module 1/3)](https://www.udemy.com/course/introduction-to-data-science-using-python/)
+
+- [Real World Machine Learning Case Study](https://www.udemy.com/course/deep-learning-case-studies/)
+
+- [Get started with R -Introduction to R-programming #Beginners](https://www.udemy.com/course/introduction-to-r-programming-r-r-studio-for-beginners/)
+
 
 ## Books
 
